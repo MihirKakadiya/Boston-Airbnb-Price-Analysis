@@ -12,9 +12,13 @@ property listings based on geographical areas, pricing dynamics, and neighbourho
 
 This analysis will involve:
 Geographical Analysis:
+
 • Segmenting property listings by geographical areas such as neighbourhoods, cities, and states.
+
 • Analysing the distribution of listings across different areas to identify popular and emerging markets.
+
 • Investigating spatial patterns and correlations between listing characteristics and geographical features.
+
 
 Price Analysis:
 • Studying the pricing variations across different geographical areas and neighbourhoods.
