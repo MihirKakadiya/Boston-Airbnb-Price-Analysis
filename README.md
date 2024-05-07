@@ -21,29 +21,39 @@ Geographical Analysis:
 
 
 Price Analysis:
+
 • Studying the pricing variations across different geographical areas and neighbourhoods.
+
 • Identifying factors influencing pricing decisions, such as property type, amenities, and seasonal
 demand.
+
 • Conducting comparative analysis to determine price competitiveness and value propositions for listings
 in specific areas.
 
 Neighbourhood Analysis:
+
 • Examining property listings within individual neighbourhoods to understand localized demand and
 preferences.
+
 • Assessing neighbourhood-specific amenities, attractions, and accessibility factors influencing listing
 popularity and pricing.
+
 • Utilizing sentiment analysis or reviews data to gauge neighbourhood reputation and guest satisfaction
 levels.
 
 Extra Charges Analysis:
+
 • Investigating additional charges such as cleaning fees, security deposits, and fees for extra guests.
+
 • Analysing the impact of extra charges on booking patterns, guest satisfaction, and overall listing
 performance.
+
 • Identifying optimal pricing strategies for extra charges to maximize revenue while maintaining
 competitiveness.
 
 Here's a description of each dimension and fact table along with their columns that we will make from raw
 dataset:
+
 1. Listing Dimension Table:
  - Listing_id: Unique identifier for each listing.
  - Name: Name of the listing.
